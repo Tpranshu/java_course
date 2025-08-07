@@ -9,7 +9,7 @@ public class program41 {
          * The Java Virtual Machine (JVM) then interprets or JIT-compiles the bytecode
          * into machine code.
          * 
-         * This makes Java platform-independent — it can run on any system with a J
+         * This makes Java platform-independent — it can run on any system with a JVM
          * 
          */
     }
